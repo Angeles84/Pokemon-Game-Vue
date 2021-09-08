@@ -1,5 +1,5 @@
 # pokemon-game
-
+Ver el sitio aquí https://pokemongame-guess-vue.netlify.app 
 ## Project setup
 ```
 npm install
